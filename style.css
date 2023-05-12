@@ -37,7 +37,7 @@ body{
     position: relative;
     height: 20vh;
     width: 20vh;
-    border-radius: 15%;
+    border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0.5rem .1rem hsla(234, 17%, 12%);
     color: hsl(345, 95%, 68%);
